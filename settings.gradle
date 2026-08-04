@@ -1,0 +1,2 @@
+rootProject.name = "ArashBMX"
+include ':app'
